@@ -4,7 +4,7 @@ This is the code accompanying the manuscript *Coexistence of many species in ran
 
 This is the link to the published article.
 
-For any question/comment, please contact [Carlos](mailto:cmaerceloservan@uchicago.edu). 
+For any question/comment, please contact [Carlos](mailto:cmarceloservan@uchicago.edu). 
 
 ## Contents
 
